@@ -1,0 +1,16 @@
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe.config
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\bin\Debug\mediaplayer.xml
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\mediaplayer.vbprojAssemblyReference.cache
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\mediaplayer.vbproj.ResolveComReference.cache
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Form1.resources
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Resources.resources
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\mediaplayer.vbproj.GenerateResource.cache
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\mediaplayer.exe
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\mediaplayer.xml
+C:\Users\Odoño\Desktop\Joanna\elec3\mediaplayer\mediaplayer\obj\Debug\mediaplayer.pdb

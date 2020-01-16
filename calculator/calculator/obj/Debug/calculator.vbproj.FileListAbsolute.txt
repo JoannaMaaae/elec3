@@ -1,0 +1,11 @@
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\bin\Debug\calculator.xml
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\obj\Debug\calculator.vbprojAssemblyReference.cache
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\obj\Debug\calculator.Calculator.resources
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.cache
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\obj\Debug\calculator.xml
+C:\Users\Odoño\Desktop\Joanna\elec3\calculator\calculator\obj\Debug\calculator.pdb

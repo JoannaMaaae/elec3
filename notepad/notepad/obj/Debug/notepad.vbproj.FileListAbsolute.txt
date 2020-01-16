@@ -1,0 +1,11 @@
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\bin\Debug\notepad.xml
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\obj\Debug\notepad.vbprojAssemblyReference.cache
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\obj\Debug\notepad.Form1.resources
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\obj\Debug\notepad.Resources.resources
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\obj\Debug\notepad.vbproj.GenerateResource.cache
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\obj\Debug\notepad.exe
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\obj\Debug\notepad.xml
+C:\Users\Odoño\Desktop\Joanna\elec3\notepad\notepad\obj\Debug\notepad.pdb
